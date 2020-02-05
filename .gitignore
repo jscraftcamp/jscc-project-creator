@@ -1,4 +1,5 @@
 # Logs
+.github_token
 logs
 *.log
 npm-debug.log*
