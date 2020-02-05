@@ -1,0 +1,22 @@
+{
+  "name": "jscc-project-creator",
+  "version": "1.0.0",
+  "description": "A little tool to boilerplate a whole new JSCC for every year - creating projects and corresponding issues with one click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscraftcamp/jscc-project-creator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jscraftcamp/jscc-project-creator/issues"
+  },
+  "homepage": "https://github.com/jscraftcamp/jscc-project-creator#readme",
+  "dependencies": {
+    "graphql-request": "^1.8.2"
+  }
+}
