@@ -1,4 +1,5 @@
-    [
+{
+    "orga": [
         {
             "title": "Subdomain for session notes",
             "body": "Hi there, the session notes is now using docsify and is currently here: https://jscraftcamp.github.io/jscc19-sessions\r\n\r\nIf you could add a subdomain like notes2019.jscraftcamp.org we could add a CNAME to the session notes repository and have something more connected to the jscraftcamp.org site."
@@ -47,6 +48,28 @@
             "title": "Collect jobs to be done, so people can assign themselves when registering",
             "body": "- [ ] create a new repo and a project where everyone can join,  do a two-step process, people \"apply\" and we add them to the repo and then they assign themself\r\n- [ ] add all tasks we have to \"give away\"\r\n- [ ] tweet about it, so people can assign themselves\r\n- [ ] remind people before the event, so they come and are aware"
         },
+        {
+            "title": "Update page to state jscc20 (not jscc19 anymore)",
+            "body": "- update title\r\n- add \"jscc20 coming in summer\"\r\n- \"date will be announced when known\"\r\n- archive the 2019 page (and link in footer)\r\n- link 2020 sponsoring page to github sponsoring project\r\n\r\nIn #811 the page might be redone, this ticket is only meant to update the current site asap."
+        },
+        {
+            "title": "Tweet sponsoring items, one by one",
+            "body": ""
+        },
+        {
+            "title": "Update the team page",
+            "body": "Add all current organizers to https://jscraftcamp.org/theteam.html"
+        },
+        {
+            "title": "Create nametags",
+            "body": "- [ ] figure out how to do name tags (by a sponsor, printed, ....??)\r\n- [ ] open a new ticket where this will be done\r\n\r\nWhy? To make no-shows transparent\r\n\r\n(see https://github.com/jscraftcamp/website/issues/546)"
+        },
+        {
+            "title": "Send tweets to the previous sponsors, to remind/ask them to sponsor again",
+            "body": "- [ ] tweet the previous sponsors\r\n- [ ] contact them via the jscc19 issues, where there had been discussions on it"
+        }
+    ],
+    "sponsors": [
         {
             "title": "Bring a BBQ and one who runs it 🔥🔥👨🏽‍🍳👨🏽‍🍳",
             "body": "Last year we had the issue that one BBQ was not enough, if you have one standing around in your office, we would b e glad if you bring it and run the BBQing at the Friday evening party."
@@ -106,45 +129,6 @@
         {
             "title": "Sponsor needed for renting chairs, beer benches, cuttlery 🍴🍴🍴💺 💺 💺 - 💰💰💰",
             "body": "## Why chairs?\r\nWe have a big hall and not enough chairs available in the office. In order for all people to have a seat while gathering in the center of the open space we need to rent chairs.\r\nWe will also need some benches (Bierbaenke) for sitting outside.\r\nEstimated cost ~300 Euro.\r\n\r\n## How does it work?\r\nLast year we contracted an external company, that was payed directly by the sponsor. We, the JSCraftCamp organizers, only organzied that the company delivers the right number of the chairs we wanted. Once they were delivered, the evening before the event volunteers set them up in the event space.\r\n\r\nThe payment will be done by the sponsor directly to the company where we rent the chairs from. We will put you in contact and you (the sponsor) can handle it from that point on."
-        },
-        {
-            "title": "Update page to state jscc20 (not jscc19 anymore)",
-            "body": "- update title\r\n- add \"jscc20 coming in summer\"\r\n- \"date will be announced when known\"\r\n- archive the 2019 page (and link in footer)\r\n- link 2020 sponsoring page to github sponsoring project\r\n\r\nIn #811 the page might be redone, this ticket is only meant to update the current site asap."
-        },
-        {
-            "title": "Close old issues? Almost everything after page 2 is outdated / from last year.",
-            "body": "Yes please :)"
-        },
-        {
-            "title": "Tweet sponsoring items, one by one",
-            "body": ""
-        },
-        {
-            "title": "Update the team page, yeah",
-            "body": "https://jscraftcamp.org/theteam.html"
-        },
-        {
-            "title": "Get access to manage the domain",
-            "body": "ask @marcoemrich"
-        },
-        {
-            "title": "Create nametags",
-            "body": "- [ ] figure out how to do name tags (by a sponsor, printed, ....??)\r\n- [ ] open a new ticket where this will be done\r\n\r\nWhy? To make no-shows transparent\r\n\r\n(see https://github.com/jscraftcamp/website/issues/546)"
-        },
-        {
-            "title": "Add a template issue for all the things that need to be done each year (and add new findings to it)",
-            "body": "- [ ] move it to the wiki\r\n\r\nAdd a template issue for all the things that need to be done each year (and add new findings to it)\r\n \r\nsee https://github.com/jscraftcamp/website/issues/545"
-        },
-        {
-            "title": "Automate creating the core set of tickets for another JSCC",
-            "body": ""
-        },
-        {
-            "title": "Create milestones",
-            "body": "We need:\r\n\r\n- [ ] have a suggestion\r\n- [ ] lets discuss it\r\n\r\n- what milestones (e.g. order food 4 weeks before, start registration, close registration, ...)\r\n- how do we do it? slack reminder, calendar appointment, github???\r\n- visualize the milestones on the website, so people see when there are deadlines for shirt ordering, food ordering, etc."
-        },
-        {
-            "title": "Send tweets to the previous sponsors, to remind/ask them to sponsor again",
-            "body": "- [ ] tweet the previous sponsors\r\n- [ ] contact them via the jscc19 issues, where there had been discussions on it"
         }
     ]
+}
