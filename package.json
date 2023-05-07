@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jscraftcamp/jscc-project-creator#readme",
   "dependencies": {
-    "graphql-request": "^1.8.2"
+    "graphql-request": "^6.0.0"
   }
 }
